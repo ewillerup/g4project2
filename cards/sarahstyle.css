@@ -9,7 +9,7 @@ box-shadow: 4px 4px rgba(1, 1, 1, 0.5);
 
 }
 
-.card-racer{
+.card-speed{
     display: block;
     width: 95%;
 	height: auto;
@@ -21,6 +21,6 @@ box-shadow: 4px 4px rgba(1, 1, 1, 0.5);
     
 }
 
-.card-speed{
+.card-racer{
 
 }
