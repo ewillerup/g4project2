@@ -1,0 +1,35 @@
+.card {
+    height: 300px;
+    width: 200px;
+    background-color: rgb(48, 98, 131, 1);
+    float: left;
+    padding: 20px;
+    margin: 30px;
+    box-shadow: 0 7px 15px 0 black';
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+.content {
+    padding-top: 80px;
+    
+}
+
+.image {
+    display: block;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.main-image {
+    display: block;
+    height: auto;
+    width: auto;
+    border-radius: auto;
+    padding: 20px;
+}
