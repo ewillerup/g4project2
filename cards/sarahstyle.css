@@ -1,17 +1,19 @@
 .card{
 background-color: rgb(77, 148, 240);
-height: 300px;
-width: 200px;
-margin: 30px;
+height: 500px;
+width: 350px;
+padding: 15px 20px 20px 20px;
+border-radius: 10px;
+box-shadow: 4px 4px rgba(1, 1, 1, 0.5);
 
 
 }
 
-.card-racer{
+.card-speed{
     display: block;
     width: 95%;
 	height: auto;
-	border: 3px solid rgb(100, 204, 100);
+	border: 3px solid rgb(225, 136, 252);
 	border-radius: 10px;
 	margin-left: auto;
 	margin-right: auto;
@@ -19,6 +21,6 @@ margin: 30px;
     
 }
 
-.card-speed{
+.card-racer{
 
 }
