@@ -1,0 +1,6 @@
+Grade requirements: 
+1. Using what you now know about html and CSS, redesign, implement, and test as a group your landing page for your team website (index.html) in such a way that it looks like a professional company’s: “Our Team” or “Meet the Team” section of their website. For some examples look here: https://digitalagencynetwork.com/top-inspiring-digital-agency-meet-the-team-page-examples/ 
+2. Have each individual group member add their own homepage content with at least a bio and picture, and link to and from that page with a consistent nav bar at the top of all team website pages.
+3. Each team member must create one custom class of CSS and two custom id’s with at least 3 property value pairs 
+4. Each group member should add at least one css animation which you can learn about here: https://www.w3schools.com/css/css3_animations.asp
+5. Have each group member change ten different style properties throughout all your webpages using CSS selectors (like h1, li, a, etc) for at least 5 different kinds of html tags in the site
