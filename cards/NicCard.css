@@ -4,7 +4,9 @@
 	width: 350px;
 	margin: 20px;
 	border-radius: 10px;
-	box-shadow: 4px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.3);
+    border-style: solid;
+    border-color: black;
 }
 
 .card-body {
