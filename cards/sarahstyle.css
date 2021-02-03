@@ -11,16 +11,18 @@ box-shadow: 4px 4px rgba(1, 1, 1, 0.5);
 
 .card-speed{
     display: block;
-    width: 95%;
+    width: 50%;
 	height: auto;
 	border: 3px solid rgb(225, 136, 252);
 	border-radius: 10px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 10px;
+	margin-right: 10px;
 
     
 }
 
 .card-racer{
-
+	color: white;
+	size: larger;
+	margin: 20px;
 }
