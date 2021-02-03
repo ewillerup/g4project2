@@ -5,13 +5,14 @@ width: 350px;
 padding: 15px 20px 20px 20px;
 border-radius: 10px;
 box-shadow: 4px 4px rgba(1, 1, 1, 0.5);
-
-
 }
-
+.title{
+	font-family:'Gill Sans', 'Gill Sans MT';
+	color: black;
+}
 .card-speed{
     display: block;
-    width: 30%;
+    width: 95%;
 	height: auto;
 	border: 3px solid rgb(225, 136, 252);
 	border-radius: 10px;
