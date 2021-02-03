@@ -4,18 +4,31 @@
 	width: 350px;
 	margin: 20px;
 	border-radius: 10px;
-	box-shadow: 4px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 4px 4px rgba(0, 0, 0, 0.3);
 }
 
 .card-body {
 
 }
 
+.card-name{
+    margin-left: 10px;
+    font-size: xx-large;
+    font-weight: 200;
+}
+
 .card-image {
-	background-image: url(https://i.ytimg.com/vi/ixWXLx0E2hU/maxresdefault.jpg);
-	border: 3px solid rgb(100, 204, 100);
-	border-radius: 10px;
-	alt: minecraft steve;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    border-radius: 10px;
+    width: 300;
+    height: auto;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+
 }
 
 .card-description {
